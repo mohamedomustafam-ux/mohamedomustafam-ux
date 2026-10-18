@@ -82,7 +82,7 @@ I am preparing to start a bachelor's degree in engineering. My long-term goal is
 
 ## Next steps
 
-- Apply the EEG project to real open recordings, for example from PhysioNet
+- EEG project to real open recordings, for example from PhysioNet
 - Add model comparison and confidence intervals to the heart failure project
 - Start computer vision fundamentals
 
